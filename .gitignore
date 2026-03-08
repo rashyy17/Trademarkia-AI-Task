@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+data/
+*.pyc
+faiss_index.bin
+meta.pkl
+clusters.pkl
