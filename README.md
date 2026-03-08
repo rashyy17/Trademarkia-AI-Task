@@ -152,6 +152,3 @@ Docker
 
 A `Dockerfile` is included if you want to containerize the service. See the file for details.
 
-Submission
-
-Provide the repository link and grant access to recruitments@trademarkia.com as requested.
